@@ -3,4 +3,5 @@ channels:
   - conda-forge
   - defaults
   - ipykernel
+  - numpy
 prefix: C:\Users\dasha\miniconda3\envs\env-07
