@@ -1,0 +1,9 @@
+name: env-07
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - numpy
+  - nbconvert
+prefix: C:\Users\dasha\miniconda3\envs\env-07
